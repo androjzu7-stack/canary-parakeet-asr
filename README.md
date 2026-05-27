@@ -128,12 +128,12 @@ jupyter notebook "notebook_final_canary_parakeet.ipynb"
 
 ## 👥 Integrantes
 
-| # | Nombre | Rol |
-|---|--------|-----|
-| 1 | [Nombre] | [Rol] |
-| 2 | [Nombre] | [Rol] |
-| 3 | [Nombre] | [Rol] |
-| 4 | [Nombre] | [Rol] |
+| # | Nombre | Código |
+|---|--------|--------|
+| 1 | Santiago Londoño Méndez | 22602902 |
+| 2 | Andrés Rojas Zúñiga | 22507348 |
+| 3 | Rubén Darío García Morales | 22507004 |
+| 4 | David Ayala Caro | 22507570 |
 
 ---
 
