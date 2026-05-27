@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Audio files (demasiado grandes para git)
+*.mp3
+*.m4a
+*.flac
+*.ogg
+audio_mono.wav
+
+# Modelos y checkpoints
+*.ckpt
+*.pt
+*.pth
+cloudflared
+
+# Streamlit
+.streamlit/
